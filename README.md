@@ -7,4 +7,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanashah-01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hanashah-01" /></p>
 
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+<p align="center">[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)</p>
