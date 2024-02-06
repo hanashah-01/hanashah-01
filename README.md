@@ -7,7 +7,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanashah-01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hanashah-01" /></p>
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0;">
-    <a href="https://techforpalestine.org/learn-more" style="text-align: center; display: inline-block;">
-        <img src="https://badge.techforpalestine.org/default" alt="Ceasefire Now">
+    <a href="https://techforpalestine.org/learn-more" style="text-align: center;">
+        <img src="https://badge.techforpalestine.org/default" alt="Ceasefire Now" style="display: block; margin: 0 auto;">
     </a>
 </div>
