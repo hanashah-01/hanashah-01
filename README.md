@@ -6,6 +6,6 @@
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanashah-01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hanashah-01" /></p> --> 
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=hanashah-01" alt="GitHub Streak" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=hanashah-01&theme=material-palenight" alt="GitHub Streak" /></a></p>
 
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
