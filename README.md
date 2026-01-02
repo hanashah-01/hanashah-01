@@ -8,4 +8,9 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=hanashah-01&theme=material-palenight" alt="GitHub Streak" /></a></p>
 
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+<p align="center">
+  <a href="https://techforpalestine.org/learn-more" target="_blank" rel="noopener">
+    <img src="https://badge.techforpalestine.org/default" alt="Ceasefire Now">
+  </a>
+</p>
+
